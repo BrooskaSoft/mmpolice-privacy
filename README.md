@@ -3,7 +3,7 @@
  Aziz Waysi Music Player downloadable
 
 ## Privacy Policy
-hero soft net built the com_awat_azad app as an Ad Supported app. This SERVICE is provided by hero soft net at no cost and is intended for use as is.
+BROOSKAsoft net built the com_azawaysa_azad app as an Ad Supported app. This SERVICE is provided by BROOSKAsoft net at no cost and is intended for use as is.
 
 This page is used to inform website visitors regarding my policies with the collection, use, and
                     disclosure of Personal Information if anyone decided to use my Service.
@@ -14,7 +14,7 @@ If you choose to use my Service, then you agree to the collection and use of inf
                     in this Privacy Policy.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible
-                    at com_awat_azad unless otherwise defined in this Privacy Policy.
+                    at com_azawaysa_azad unless otherwise defined in this Privacy Policy.
 
 Information Collection and Use
 
