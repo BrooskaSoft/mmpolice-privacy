@@ -1,6 +1,6 @@
 ## Aziz Waysi Music
 ## com_azawaysa_azad
-## Aziz Waysi Music Player downloadable
+ Aziz Waysi Music Player downloadable
 
 ## Privacy Policy
 hero soft net built the com_awat_azad app as an Ad Supported app. This SERVICE is provided by hero soft net at no cost and is intended for use as is.
